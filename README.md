@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm İREM DURU <br /><br /> 
 
-<!--
-**iremduru/iremduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duruirem/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duruuireem/)
 
-Here are some ideas to get you started:
+</h1>
+Until I graduate, I want to travel to various countries and improve myself in the software industry. I want to find a job in this industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Pyhton 
+
+- 🚒 I'm interested in software, coding and learning artificial intelligence 🤖
+
+- 📝 Mail :   duruiremz@outlook.com
